@@ -1,0 +1,64 @@
+*{
+
+padding: 0;
+margin: 0;
+}
+
+.container{
+
+    background-color: #fff;
+    height: 70vh;
+    text-align: center;
+    margin-top: 12%;
+}
+
+h1{
+
+    font-size: 80px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+h3{
+
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.fa-solid{
+color: red;
+padding-right: 10px;
+
+}
+
+p{
+padding-top: 8px;
+font-size: 13px;
+
+}
+.back{
+
+    padding-top: 20px;
+    background-color: blueviolet;
+    width: 15%;
+    margin: auto;
+    margin-top: 14px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+.back a, span{
+
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+
+
+
+

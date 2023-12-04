@@ -339,6 +339,175 @@ border: 1px solid black;
         .icon a span{
             color: #222;
         }
+
+
+        /* the mobile responsiveness starts here */
+
+        @media screen and (max-width:1000px) {
+            .main-content-3{
+
+                background-color:white;
+                padding: 40px;
+                height: 70vh;
+                margin-left: 20px;
+                margin-top: 20px;
+                border-radius: 15px;
+                width: 30%;
+                
+                
+                }
+                
+                .main-content-2{
+
+                    background-color:white;
+                    padding: 40px;
+                    height: 70vh;
+                    margin-left: 20px;
+                    margin-top: 20px;
+                    border-radius: 15px;
+                    width: 30%;
+                    
+                    
+                    }
+
+                    .main-content-1{
+
+                        background-color:white;
+                        padding: 40px;
+                        height: 70vh;
+                        margin-left: 20px;
+                        margin-top: 20px;
+                        border-radius: 15px;
+                        width: 30%;
+                        
+                        
+                        }
+            
+            
+        }
+
+        /* mobile responsiveness for tablet */
+
+        @media (max-width:820px)and (min-width:500px) {
+
+            .card-1 img{
+
+                margin-left: -10px;
+                width: 150%;
+                border-radius: 5px;
+                
+                
+                }
+
+                .card-2 img{
+
+                width: 140%;
+                margin: auto;
+
+                }
+            
+
+                .card-3 img{
+                width: 80%;
+                margin: auto;
+                    
+                }
+
+                .card-3{
+
+                    height: 20vh;
+                }
+                
+        .button-1{
+
+        background-color: #fff;
+        padding: 12px 10px;
+        margin-top: 40px;
+        border-radius: 10px;
+        border: 1px solid black;
+        
+       }
+    
+         .button-1:hover{
+    
+            
+            background-color: rgb(118, 54, 179);
+            color: #fff;
+    
+            }
+            .button-1 a span:hover{
+             color: #fff;
+    
+            }
+       .button-1 a span{
+    
+        font-size: 18px;
+        padding-left: 10%;
+        color: black;
+    
+        }
+             
+.button-2{
+
+    background-color: #fff;
+    padding: 12px 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+    }
+    
+         .button-2:hover{
+    
+            
+            background-color: rgb(118, 54, 179);
+            color: #fff;
+    
+            }
+            .button-1 a span:hover{
+             color: #fff;
+    
+            }
+       .button-2 a span{
+    
+        font-size: 18px;
+        padding-left: 10%;
+        color: black;
+    
+        }
+             
+     .button-3{
+
+        background-color: #fff;
+        padding: 12px 10px;
+        margin-top: 40px;
+        border-radius: 10px;
+        border: 1px solid black;
+    
+    }
+    
+         .button-3:hover{
+    
+            
+            background-color: rgb(118, 54, 179);
+            color: #fff;
+    
+            }
+            .button-1 a span:hover{
+             color: #fff;
+    
+            }
+       .button-3 a span{
+    
+        font-size: 18px;
+        padding-left: 10%;
+        color: black;
+    
+        }
+                
+            
+            
+        }
         
         
         
