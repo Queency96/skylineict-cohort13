@@ -17,7 +17,6 @@ body {
 .wrapper {
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     width: 550px;
     height: 570px;
@@ -239,6 +238,3 @@ button {
     text-decoration: underline;
 }
 
-/* @media  screen and (max-width: 500px) {
-    width: 550px;
-} */
