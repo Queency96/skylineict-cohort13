@@ -140,10 +140,12 @@ box-shadow: 2px 5px 6px 3px lightgray ;
 
    columns: #0c012f;
    font-size: 15px;
+   display: flex;
+   flex-direction: column;
 }
 
 
-.header-tittle span{
+.header-tittle .span1{
 
 color: #0c012f;
 font-size: 15px;
@@ -151,6 +153,11 @@ letter-spacing: 5px;
 display: block;
 padding-bottom: 6px;
 
+}
+
+
+.span1 span{
+  color: red;
 }
 
 
