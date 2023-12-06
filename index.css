@@ -137,11 +137,10 @@ box-shadow: 2px 5px 6px 3px lightgray ;
 
 }
 .header-tittle{
-
-   columns: #0c012f;
-   font-size: 15px;
-   display: flex;
-   flex-direction: column;
+  columns: #0c012f;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
 }
 
 
