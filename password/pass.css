@@ -112,6 +112,15 @@ button{
 .back{
     position: absolute;
     right: 77%;
+    
     font-size: 28px;
+    
     bottom: 80px;
+    
+}
+
+
+.div1{
+    position: absolute;
+    top: 5px;
 }
