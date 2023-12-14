@@ -114,6 +114,6 @@ img{
 .back{
     position: absolute;
     left: 15px;
-    top: 110%;
+    bottom:  -40%;
     font-size: 35px;
 }
